@@ -8,8 +8,8 @@ Task 2:-Create a predictive model which will help the customers to predict futur
 
 # CHALLENGES FACED
 
-Data Preprocessing:
+## Data Preprocessing:
 In data preprocessing, Converting the date_of_journey column to timestamp seems difficult step and converting the Duration column using timedelta function for extracting minutes and hours to find difficult to done.
 
-Hyperparameter Tuning:
+## Hyperparameter Tuning:
 While doing hyperparameter its trying out all the possibilities can consume a lot of computer power. Here we used RandomsearchCV to get more efficiently. It performed well but it takes a lot of time to get best parameters.
