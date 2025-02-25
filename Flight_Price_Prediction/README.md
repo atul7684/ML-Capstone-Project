@@ -6,7 +6,7 @@ Task 1:-Prepare a complete data analysis report on the given data.
 Task 2:-Create a predictive model which will help the customers to predict future flight prices and plan their journey accordingly.
 
 
-# CHALLENGES FACED
+## CHALLENGES FACED
 
 ## Data Preprocessing:
 In data preprocessing, Converting the date_of_journey column to timestamp seems difficult step and converting the Duration column using timedelta function for extracting minutes and hours to find difficult to done.
